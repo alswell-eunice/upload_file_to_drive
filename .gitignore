@@ -1,0 +1,10 @@
+
+This is the folder where all the dependencies are installed. You can delete this folder and run
+
+node_modules
+
+.env
+
+uploads
+
+credentials.json
